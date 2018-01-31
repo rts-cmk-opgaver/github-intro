@@ -24,6 +24,7 @@
 
 ### Aflever opgave
 * Opret en `pull-request` fra dev-branch til master-branch
+* `Assign` din lærer til pull-requesten
 * Afvent lærer-feedback
 
 ## Opgave
