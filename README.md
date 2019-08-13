@@ -16,7 +16,6 @@
 * Accepter en `Assignment`
 * `Clone` assignment til din computer
 * Opret en `dev-branch`
-* `Check-out` dev-branchen
 
 ### Arbejde
 * Arbejd på din kode eller opgave
