@@ -2,27 +2,33 @@
 
 ## Nøgleord
 * Branch
-* Check-out
+* Switch
 * Clone
+* Stage
 * Commit
+* Push
 * Pull
 * Pull-request
-* Push
-* Stage
 
 ## Arbejdsgang i forbindelse med GitHub-opgaver
 
 ### Klargøring
-* Accepter en `Assignment`
-* `Clone` assignment til din computer
-* Opret en `dev-branch`
+* Accepter en Classroom-Assignment
+* `clone` assignment til din computer
+* Opret en `dev`-branch
 
 ### Arbejde
 * Arbejd på din kode eller opgave
-* `Commit` ændringer og `push` til dev-branchen (gør dette ofte!)
+* `stage` og `commit` dine ændringer.
+  - Husk at bruge beskrivende commit-beskeder
+  - Betragt dine commits som 'nedslagspunkter' i historikken.
+* `push` til dev-branchen (gør dette ofte!)
 
 ### Aflever opgave
-* Opret en `pull-request` fra dev-branch til master-branch
+I en normal opgave vil dit sidste commit eller merge være din aflevering.
+I denne opgave træner vi flowet omkring pull-requests. 
+Derfor skal du, for at aflevere:
+* Oprette en `pull-request` fra dev-branch til main-branch
 * `Assign` din lærer til pull-requesten
 * Afvent lærer-feedback
 
