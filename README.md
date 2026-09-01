@@ -1,3 +1,5 @@
+**DYNAMISK WEB**
+
 # GitHub Intro
 
 ## Nøgleord
@@ -13,7 +15,7 @@
 ## Arbejdsgang i forbindelse med GitHub-opgaver
 
 ### Klargøring
-* Accepter en Classroom-Assignment
+* Kopier repository fra linket
 * `clone` assignment til din computer
 * Opret en `dev`-branch
 
