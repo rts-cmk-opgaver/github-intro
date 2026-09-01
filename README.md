@@ -16,6 +16,7 @@
 
 ### Klargøring
 * Kopier repository fra linket
+* Invitér din lærer som 'collaborator' på dit repository.
 * `clone` assignment til din computer
 * Opret en `dev`-branch
 
