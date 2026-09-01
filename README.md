@@ -44,4 +44,15 @@ Du skal linke CSS-filen til HTML-filen og i HTML-filen skal du lave følgende:
 * En `main`-sektion med en `section` og en `h1`
 * Din `main`/`section` skal også indeholde 2 tekstafsnit med vrøvletekst (lorem ipsum)
 * En `footer` med copyright tekst
-* (hvis du har tid) Opsæt siden ved hjælp af CSS, så den ser pæn ud, men lad være med at gøre alt for meget ud af det
+
+Tænk i processen aktivt over hvordan du opdeler dine ændringer i forskellige commits (Hvad skal du kunne komme tilbage til?)
+
+Når index-siden er helt på plads, skal du oprette følgende undersider:
+
+* Produkter
+* Om os
+* kontakt
+
+Tilføj noget dummy-indhold til de enkelte sider. Fx kan du kopiere en kontaktformular fra et tidligere projekt. 
+
+* Hvis du har tid, kan du opsætte siden ved hjælp af CSS, så den ser lidt pænere ud. 
